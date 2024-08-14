@@ -16,8 +16,8 @@ function exibirTextoTela(tag, texto){
 }
 
 function frasesIniciais() {
-    exibirTextoTela('h1', 'Olá, vadia cis');
-    exibirTextoTela('p', 'Escolha um número sua cis.');
+    exibirTextoTela('h1', 'Olá, jogador');
+    exibirTextoTela('p', 'Escolha um número!');
     }
 
 
